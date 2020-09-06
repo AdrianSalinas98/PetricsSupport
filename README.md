@@ -1,2 +1,2 @@
 # PetricsSupport
-Support for Petrics Application
+Support Page for Petrics Application
